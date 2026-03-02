@@ -16,4 +16,5 @@ DubinsPath::DubinsPath(Vector3 i, Vector3 f, Vector3 v, double tr, double delay)
     timeDelay = delay;
     Vector3 pL;
     Vector3 pS;
+    Vector3 test;
 }
